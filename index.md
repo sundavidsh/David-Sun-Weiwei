@@ -1,5 +1,4 @@
-# David Sun's blog
-
+# David Sun (Sun Weiwei)
 ***
 My research and professional area is market access, market surveillance, competitive strategy and globalization.
 
