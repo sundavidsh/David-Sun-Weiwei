@@ -17,10 +17,14 @@ I am thinktank member of the firm, also participated in Zhejiang provencial and 
 
 
 ***
-    date:2016-12-12 /Japanese standard
-    
-***
-    date:2016-12-09 /Market Surveillance
+    date:2016-12-12 /Culture 
+
+Cross-cultural communications 
+
+Culture rooted in a person's life experience, mindset and self-recognition, psychology identification, the challenges of communication barriers were raised especially in the globalization world, peoples from different countries and backgrounds may have strong prejudice against the behavior or habits which were enforced by the media or particular experience which may be mistakenly used as representative of the whole country.
+
+It is quite difficult, sometimes, to understand each other, the misunderstanding caused mistrust and fears of each other when there is conflict of interest, eventually the gap between people with different mindset is unbelievably huge to leap over.
+
 
 
 ***Copyright &copy; [David Sun](mailto:david@sunweiwei.net)***
