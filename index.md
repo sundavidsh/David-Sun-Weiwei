@@ -3,10 +3,11 @@
     date: 2015-12-06/ introduction 
     
 ***
-My research and professional area is 
- + market access
- + market surveillance
- + competitive strategy.  
+My research and professional area is
+
+ * market access
+ * market surveillance
+ * competitive strategy.  
 
 1. Academic background: Student of MBA in Shanghai International Studies University
 
@@ -20,7 +21,7 @@ I am thinktank member of the firm, also participated in Zhejiang provencial and 
 
 
 ***
-    date:2016-12-11 /Chinese standard
+    date:2016-12-11 /Chinese standard
     
 ***
     date:2016-12-09 /Market surveillance
