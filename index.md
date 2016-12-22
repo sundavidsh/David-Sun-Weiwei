@@ -4,9 +4,9 @@
     
 ***
 My research and professional area is 
-+ market access
-+ market surveillance
-+ competitive strategy.  
+ + market access
+ + market surveillance
+ + competitive strategy.  
 
 1. Academic background: Student of MBA in Shanghai International Studies University
 
