@@ -1,6 +1,6 @@
  [Home](http://www.sunweiwei.net) 
 
-    date: 2016-12-06/ introduction 
+    date: 2015-12-06/ introduction 
     
 ***
 My research and professional area is 
@@ -16,6 +16,15 @@ I am thinktank member of the firm, also participated in Zhejiang provencial and 
 
 
 ***
+    date:2016-12-12 /Japanese standard
+
+
+***
+    date:2016-12-11 /Chinese standard
+    
+***
+    date:2016-12-09 /Market surveillance
+
 Please contact me via <david@sunweiwei.net>
 
 
