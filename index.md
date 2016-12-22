@@ -18,10 +18,6 @@ I am thinktank member of the firm, also participated in Zhejiang provencial and 
 
 ***
     date:2016-12-12 /Japanese standard
-
-
-***
-    date:2016-12-11 /Chinese standard
     
 ***
     date:2016-12-09 /Market surveillance
