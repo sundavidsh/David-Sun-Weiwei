@@ -23,7 +23,9 @@ Cross-cultural communications
 
 Culture rooted in a person's life experience, mindset and self-recognition, psychology identification, the challenges of communication barriers were raised especially in the globalization world, peoples from different countries and backgrounds may have strong prejudice against the behavior or habits which were enforced by the media or particular experience which may be mistakenly used as representative of the whole country.
 
-It is quite difficult, sometimes, to understand each other, the misunderstanding caused mistrust and fears of each other when there is conflict of interest, eventually the gap between people with different mindset is unbelievably huge to leap over.
+It is quite difficult, sometimes, to understand each other, the misunderstanding caused mistrust and fears of each other when there is conflict of interest, eventually the gap between people with different mindset is unbelievably huge to leap over.  
+
+Behind the culture gap, the most difficult part is related with interest conflict and self-respect, when the conflict is related to the emotional crisis between those parties, where have dominant sides and weak sides, the psychological pressure and energy will make the logical sense disappear. Especially when two sides have prejudice and strong beliefs which have conflict, the culture difference will not be easily understood.    
 
 
 ***
