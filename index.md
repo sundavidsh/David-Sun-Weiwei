@@ -7,7 +7,9 @@ My research and professional area is
 
  * market access
  * market surveillance
- * competitive strategy.  
+ * competitive strategy
+ * Cross-cultural management
+ * Managerial psychology  
 
 1. Academic background: Student of MBA in Shanghai International Studies University
 
