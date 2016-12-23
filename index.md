@@ -1,6 +1,6 @@
  [Home](http://www.sunweiwei.net) 
 
-    date: 2015-12-06/ introduction 
+    December 16,2015 Intro
     
 ***
 My research and professional area is
@@ -19,7 +19,7 @@ I am thinktank member of the firm, also participated in Zhejiang provencial and 
 
 
 ***
-    date:2016-12-12 /Culture 
+    December 12,2016 /Culture 
 
 Cross-cultural communications 
 
@@ -31,7 +31,7 @@ Behind the culture gap, the most difficult part is related with interest conflic
 
 
 ***
-    date: 2016-12-24 /Behavior mode
+    December 14,2016 /Behavior mode
 
 Route lost theory
 
