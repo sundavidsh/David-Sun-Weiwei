@@ -1,6 +1,6 @@
- [Home](http://www.sunweiwei.net) 
+ [Home](http://www.sunweiwei.net)   [Contact me](mailto:david@sunweiwei.net)
 
-    December 16,2015 /About me
+>December 16,2015 /About me
     
 ***
 My research and professional area is
@@ -54,6 +54,6 @@ To keep yourself on track, it is useful to write down your vision, target with c
 
 
 
-***Copyright &copy; [David Sun](mailto:david@sunweiwei.net)***
+***Copyright &copy; David Sun***
 
 
