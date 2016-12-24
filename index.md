@@ -1,6 +1,6 @@
- [Home](http://www.sunweiwei.net)   [Contact me](mailto:david@sunweiwei.net)
+ [Home](http://www.sunweiwei.net) | [Contact me](mailto:david@sunweiwei.net)
 
->December 16,2015 /About me
+    December 16,2015 /About me
     
 ***
 My research and professional area is
