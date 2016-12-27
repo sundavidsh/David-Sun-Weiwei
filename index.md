@@ -1,4 +1,4 @@
- [Home](http://www.sunweiwei.net) | [Contact me](mailto:david@sunweiwei.net)
+ [Home](http://www.sunweiwei.net) | [Contact me](mailto:david@sunweiwei.net) | [Blog](http://blog.sina.cn/dpool/blog/u/1794955475#type=-1)
 
     December 27,2016 /Career plan
 
