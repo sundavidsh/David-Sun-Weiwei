@@ -3,7 +3,7 @@
     December 27,2016 /Career plan
 
 ***
-*谈谈你的职业规划
+# 谈谈你的职业规划
 
 无论你是刚毕业不久的职场rookie，还是进入而立之年的职场骨干，职业规划都是你职业旅途中不容小觑的一项必备单品。  
 职业规划可以帮你理清思路，确定方向和目标，列出计划清单，让你能够更明确清晰的看到未来。  
@@ -23,7 +23,7 @@
 
     December 25, 2016 /Career
 
-*不跳槽，工资怎么增长？
+# 不跳槽，工资怎么增长？
 
 我们在日常经历中，发现一个普遍的现象，也就是说只有通过不断的跳槽才能获得工资的快速增长，而常年待在一家企业不挪窝的忠诚卫士们反而只能缓慢爬坡。
 除了因为人事财务规章制度等外在因素，这个现象有其内在合理之处，符合人的基本心理学倾向。  
@@ -58,7 +58,7 @@ I am thinktank member of the firm, also participated in Zhejiang provencial and 
 ***
     December 12,2016 /Culture 
 
-Cross-cultural communications 
+# Cross-cultural communications 
 
 Culture rooted in a person's life experience, mindset and self-recognition, psychology identification, the challenges of communication barriers were raised especially in the globalization world, peoples from different countries and backgrounds may have strong prejudice against the behavior or habits which were enforced by the media or particular experience which may be mistakenly used as representative of the whole country.
 
@@ -70,7 +70,7 @@ Behind the culture gap, the most difficult part is related with interest conflic
 ***
     December 14,2016 /Behavior mode
 
-Route lost theory
+# Route lost theory
 
 In daily life, there are several cases are common for human beings, for example if you feel tired at work with less payments, and you prefer a better and easier life, then naturally you will try to make more money, after you are inspired by the vision to be rich, you make a great plan and work harder to achieve it, however during the long run, you find other pursuits like social class and power, you worked overnight, have no time to enjoy with your family, finally you forgot the original reason, make money to live better with your family.  
 
