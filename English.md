@@ -1,4 +1,4 @@
-  [Home](http://www.sunweiwei.net) | [Contact me](mailto:david@sunweiwei.net) | [Blog](http://blog.sina.cn/dpool/blog/u/1794955475#type=-1) | [English](/English.md) 
+  [Home](http://www.sunweiwei.net) | [Contact me](mailto:david@sunweiwei.net) | [Blog](http://blog.sina.cn/dpool/blog/u/1794955475#type=-1) | [English](https://github.com/sundavidsh/David-Sun-Weiwei/blob/master/English.md) 
 
 
 
